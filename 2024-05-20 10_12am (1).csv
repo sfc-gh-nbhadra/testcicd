@@ -1,0 +1,196 @@
+OBJECT_ID,LOCK_TYPE,OBJECT_NAME,SCHEMA_ID,SCHEMA_NAME,DATABASE_ID,DATABASE_NAME,QUERY_ID,TRANSACTION_ID,REQUESTED_AT,ACQUIRED_AT,BLOCKER_QUERIES
+47115,PARTITION,FACILITY_CLAIM_XREF_MASK,67,NDWAE_MASK,31,NDWAE_REL_POC,01abbc1b-0004-734d-0031-1507002b60aa,1681921629491,2023-04-19T16:27:09.529Z,2023-04-19T16:27:55.960Z,"[
+  {
+    ""is_snowflake"": false,
+    ""query_id"": ""01abbc1b-0004-734d-0031-1507002b60b2"",
+    ""transaction_id"": 1681921629492
+  }
+]"
+45080,PARTITION,FACILITY_HEADER_SECONDARY_CONDITION_MASK,68,NDWAE_ANTHEM_MASK,31,NDWAE_REL_POC,01abbc1b-0004-734d-0031-1507002b60d2,1681921630885,2023-04-19T16:27:10.939Z,2023-04-19T16:28:45.115Z,"[
+  {
+    ""is_snowflake"": false,
+    ""query_id"": ""01abbc1b-0004-734d-0031-1507002b60da"",
+    ""transaction_id"": 1681921630878
+  }
+]"
+45070,PARTITION,FACILITY_HEADER_SECONDARY_CONDITION_MASK,67,NDWAE_MASK,31,NDWAE_REL_POC,01abbc1b-0004-734d-0031-1507002b60d6,1681921630734,2023-04-19T16:27:10.831Z,2023-04-19T16:29:13.998Z,"[
+  {
+    ""is_snowflake"": false,
+    ""query_id"": ""01abbc1b-0004-734d-0031-1507002b60ce"",
+    ""transaction_id"": 1681921630683
+  }
+]"
+50180,PARTITION,FACILITY_HEADER_MASK,67,NDWAE_MASK,31,NDWAE_REL_POC,01abbc1b-0004-743e-0031-1507002b582e,1681921630009,2023-04-19T16:27:10.047Z,2023-04-19T16:28:52.563Z,"[
+  {
+    ""is_snowflake"": false,
+    ""query_id"": ""01abbc1b-0004-734d-0031-1507002b60c6"",
+    ""transaction_id"": 1681921629987
+  }
+]"
+47129,PARTITION,FACILITY_CLAIM_XREF_MASK,68,NDWAE_ANTHEM_MASK,31,NDWAE_REL_POC,01abbc1b-0004-734c-0031-1507002b1fc2,1681921629576,2023-04-19T16:27:09.607Z,2023-04-19T16:28:04.229Z,"[
+  {
+    ""is_snowflake"": false,
+    ""query_id"": ""01abbc1b-0004-734d-0031-1507002b60ae"",
+    ""transaction_id"": 1681921629539
+  }
+]"
+44054,PARTITION,ADMISSION_AGGREGATE_INBOUND_MASK,67,NDWAE_MASK,31,NDWAE_REL_POC,01abbc1b-0004-734c-0031-1507002b1fb6,1681921630307,2023-04-19T16:27:10.335Z,2023-04-19T16:28:09.398Z,"[
+  {
+    ""is_snowflake"": false,
+    ""query_id"": ""01abbc1b-0004-734c-0031-1507002b1fba"",
+    ""transaction_id"": 1681921630251
+  }
+]"
+47131,PARTITION,FACILITY_HEADER_MASK,68,NDWAE_ANTHEM_MASK,31,NDWAE_REL_POC,01abbc1b-0004-734c-0031-1507002b1fde,1681921630297,2023-04-19T16:27:10.328Z,2023-04-19T16:28:19.821Z,"[
+  {
+    ""is_snowflake"": false,
+    ""query_id"": ""01abbc1b-0004-734d-0031-1507002b60ca"",
+    ""transaction_id"": 1681921630107
+  }
+]"
+45080,PARTITION,FACILITY_HEADER_SECONDARY_CONDITION_MASK,68,NDWAE_ANTHEM_MASK,31,NDWAE_REL_POC,01ac288e-0404-8030-0031-15070045ef8a,1683587438895,2023-05-08T23:10:38.929Z,2023-05-08T23:31:24.094Z,"[
+  {
+    ""is_snowflake"": false,
+    ""query_id"": ""01ac2887-0404-80d0-0031-15070047569a"",
+    ""transaction_id"": 1683587032704
+  },
+  {
+    ""is_snowflake"": false,
+    ""query_id"": ""01ac2887-0404-806b-0031-150700467c0a"",
+    ""transaction_id"": 1683587032763
+  },
+  {
+    ""is_snowflake"": false,
+    ""query_id"": ""01ac2887-0404-8097-0031-1507004728ce"",
+    ""transaction_id"": 1683587032836
+  },
+  {
+    ""is_snowflake"": false,
+    ""query_id"": ""01ac2887-0404-8091-0031-1507004705a6"",
+    ""transaction_id"": 1683587033184
+  },
+  {
+    ""is_snowflake"": false,
+    ""query_id"": ""01ac2887-0404-8091-0031-1507004705a2"",
+    ""transaction_id"": 1683587033280
+  },
+  {
+    ""is_snowflake"": false,
+    ""query_id"": ""01ac2887-0404-806b-0031-150700467c0e"",
+    ""transaction_id"": 1683587033317
+  },
+  {
+    ""is_snowflake"": false,
+    ""query_id"": ""01ac2887-0404-8091-0031-1507004705b2"",
+    ""transaction_id"": 1683587033384
+  },
+  {
+    ""is_snowflake"": false,
+    ""query_id"": ""01ac2887-0404-8091-0031-1507004705ae"",
+    ""transaction_id"": 1683587033447
+  },
+  {
+    ""is_snowflake"": false,
+    ""query_id"": ""01ac288e-0404-8097-0031-1507004728f6"",
+    ""transaction_id"": 1683587438785
+  }
+]"
+47115,PARTITION,FACILITY_CLAIM_XREF_MASK,67,NDWAE_MASK,31,NDWAE_REL_POC,01ac288e-0404-8030-0031-15070045ef82,1683587437703,2023-05-08T23:10:37.732Z,2023-05-08T23:31:35.920Z,"[
+  {
+    ""is_snowflake"": false,
+    ""query_id"": ""01ac2887-0404-8089-0031-150700471a0e"",
+    ""transaction_id"": 1683587031431
+  },
+  {
+    ""is_snowflake"": false,
+    ""query_id"": ""01ac2887-0404-8089-0031-150700471a06"",
+    ""transaction_id"": 1683587031429
+  },
+  {
+    ""is_snowflake"": false,
+    ""query_id"": ""01ac2887-0404-8089-0031-150700471a0a"",
+    ""transaction_id"": 1683587031430
+  },
+  {
+    ""is_snowflake"": false,
+    ""query_id"": ""01ac2887-0404-8089-0031-150700471a12"",
+    ""transaction_id"": 1683587031433
+  },
+  {
+    ""is_snowflake"": false,
+    ""query_id"": ""01ac2887-0404-8030-0031-15070045ef62"",
+    ""transaction_id"": 1683587031645
+  },
+  {
+    ""is_snowflake"": false,
+    ""query_id"": ""01ac2887-0404-8091-0031-150700470596"",
+    ""transaction_id"": 1683587031956
+  },
+  {
+    ""is_snowflake"": false,
+    ""query_id"": ""01ac2887-0404-8091-0031-150700470592"",
+    ""transaction_id"": 1683587031958
+  },
+  {
+    ""is_snowflake"": false,
+    ""query_id"": ""01ac2887-0404-806b-0031-150700467bfe"",
+    ""transaction_id"": 1683587032170
+  },
+  {
+    ""is_snowflake"": false,
+    ""query_id"": ""01ac2887-0404-80d0-0031-15070047568e"",
+    ""transaction_id"": 1683587032228
+  }
+]"
+45080,PARTITION,FACILITY_HEADER_SECONDARY_CONDITION_MASK,68,NDWAE_ANTHEM_MASK,31,NDWAE_REL_POC,01ac288e-0404-802d-0031-150700461dc2,1683587439040,2023-05-08T23:10:39.071Z,2023-05-08T23:32:04.314Z,"[
+  {
+    ""is_snowflake"": false,
+    ""query_id"": ""01ac2887-0404-80d0-0031-15070047569a"",
+    ""transaction_id"": 1683587032704
+  },
+  {
+    ""is_snowflake"": false,
+    ""query_id"": ""01ac2887-0404-806b-0031-150700467c0a"",
+    ""transaction_id"": 1683587032763
+  },
+  {
+    ""is_snowflake"": false,
+    ""query_id"": ""01ac2887-0404-8097-0031-1507004728ce"",
+    ""transaction_id"": 1683587032836
+  },
+  {
+    ""is_snowflake"": false,
+    ""query_id"": ""01ac2887-0404-8091-0031-1507004705a6"",
+    ""transaction_id"": 1683587033184
+  },
+  {
+    ""is_snowflake"": false,
+    ""query_id"": ""01ac2887-0404-8091-0031-1507004705a2"",
+    ""transaction_id"": 1683587033280
+  },
+  {
+    ""is_snowflake"": false,
+    ""query_id"": ""01ac2887-0404-806b-0031-150700467c0e"",
+    ""transaction_id"": 1683587033317
+  },
+  {
+    ""is_snowflake"": false,
+    ""query_id"": ""01ac2887-0404-8091-0031-1507004705b2"",
+    ""transaction_id"": 1683587033384
+  },
+  {
+    ""is_snowflake"": false,
+    ""query_id"": ""01ac2887-0404-8091-0031-1507004705ae"",
+    ""transaction_id"": 1683587033447
+  },
+  {
+    ""is_snowflake"": false,
+    ""query_id"": ""01ac288e-0404-8097-0031-1507004728f6"",
+    ""transaction_id"": 1683587438785
+  },
+  {
+    ""is_snowflake"": false,
+    ""query_id"": ""01ac288e-0404-8030-0031-15070045ef8a"",
+    ""transaction_id"": 1683587438895
+  }
+]"
